@@ -1,93 +1,91 @@
-{
-  "todos": [
-    {
-      "text": "প্রজেক্টটি react-redux and redux-thunk দিয়ে করতে হবে।",
-      "completed": false,
-      "id": 21,
-      "color": "green"
-    },
-    {
-      "text": "Todo title এডিট করার অপশন দিতে হবে।editing is possible",
-      "completed": false,
-      "id": 22,
-      "color": "green"
-    },
-    {
-      "text": "Todo list এ প্রতিটি Todo item এর delete আইকন এর পাশে একটি এডিট আইকন (pencil আইকন হতে পারে) বসাবেন",
-      "completed": false,
-      "id": 23,
-      "color": "red"
-    },
-    {
-      "text": "সেখানে ক্লিক করলে সংশ্লিষ্ট Todo title টি update করার অপশন দিবে।",
-      "completed": false,
-      "id": 24,
-      "color": "yellow"
-    },
-    {
-      "text": "UI তে আপনারা edit icon এ ক্লিক করলে একটা সুন্দর মোডাল খুলে দিতে পারেন অথবা সবচেয়ে ভাল হয়, ঐখানেই Todo এর title টি লিস্টে যেখানে দেখা যাচ্ছে, সেখানে title টিকে value হিসেবে নিয়ে একটি input box দেখিয়ে দিবেন এবং সেখানে update করে \"Enter\" press করলে আপডেট হয়ে যাবে।",
-      "completed": false,
-      "id": 25,
-      "color": "yellow"
-    },
-    {
-      "text": "আপডেট টি অবশ্যই সার্ভার এবং ক্লায়েন্ট both সাইডেই হতে হবে এবং রিলোড করলে যেন state টি persist করে।",
-      "completed": false,
-      "id": 26,
-      "color": "yellow"
-    },
-    {
-      "text": "\"Enter\" press করার পর কোন ধরণের পেইজ রিলোড গ্রহণযোগ্য নয়।",
-      "completed": false,
-      "id": 27
-    },
-    {
-      "text": "প্রজেক্টে দেখানো Todo list থেকে completed Todo গুলোকে সরিয়ে নিয়ে নিচে আরেকটি সেকশন এ নিয়ে যাওয়া।",
-      "completed": false,
-      "id": 28
-    },
-    {
-      "text": "এজন্য আপনাদের কে বর্তমান Todo list সেকশন এর নিচে আরেকটি সেকশন UI তে দেখাতে হবে।",
-      "completed": false,
-      "id": 29
-    },
-    {
-      "text": "সেই সেকশন এর উপর একটি টাইটেল দেখাতে পারেন - \"Completed Tasks\"",
-      "completed": false,
-      "id": 30
-    },
-    {
-      "text": "এই লিস্ট এ শুধু মাত্র কমপ্লিট টাস্ক গুলো দেখালেই চলবে।",
-      "completed": false,
-      "id": 31
-    },
-    {
-      "text": "এই লিস্টটি উপরের লিস্ট এর সাথে synced থাকবে। মানে উপরের লিস্টে কোন Todo কে যদি \"complete\" করা হয়, তাহলে সেটি উপরের লিস্ট থেকে নিচের লিস্টে চলে আসবে। উপরের লিস্ট এ শুধু incomplete টাস্ক গুলো থাকবে।",
-      "completed": false,
-      "id": 32
-    },
-    {
-      "text": "নিচের লিস্ট এ কোন এডিট, ডিলিট এসব ফিচার লাগবেনা। শুধু মাত্র \"complete\" থেকে \"incomplete\" করার অপশন থাকবে। এবং নিচের থেকে একটি complete task কে incomplete মার্ক করে দিলে সেটি আবার নিচের লিস্ট থেকে উপরের লিস্টে চলে যাবে।",
-      "completed": false,
-      "id": 33
-    },
-    {
-      "text": "পুরো ফিচারটি তে কোন পেইজ রিলোড একসেপ্ট করার হবেনা।",
-      "completed": false,
-      "id": 34,
-      "color": "yellow"
-    },
-    {
-      "text": "পেইজ ম্যানুয়ালি রিলোড দিলেই কারেন্ট স্টেটটি যেন ধরে রাখে, মানে প্রতিটি আপডেট যেন সার্ভার এর সাথে synced থাকে।",
-      "completed": false,
-      "id": 35,
-      "color": "yellow"
-    },
-    {
-      "text": "Start your json server to test",
-      "completed": false,
-      "id": 36,
-      "color": "green"
-    }
-  ]
-}
+[
+  {
+    "text": "প্রজেক্টটি react-redux and redux-thunk দিয়ে করতে হবে।",
+    "completed": false,
+    "id": 21,
+    "color": "green"
+  },
+  {
+    "text": "Todo title এডিট করার অপশন দিতে হবে।editing is possible",
+    "completed": false,
+    "id": 22,
+    "color": "green"
+  },
+  {
+    "text": "Todo list এ প্রতিটি Todo item এর delete আইকন এর পাশে একটি এডিট আইকন (pencil আইকন হতে পারে) বসাবেন",
+    "completed": false,
+    "id": 23,
+    "color": "red"
+  },
+  {
+    "text": "সেখানে ক্লিক করলে সংশ্লিষ্ট Todo title টি update করার অপশন দিবে।",
+    "completed": false,
+    "id": 24,
+    "color": "yellow"
+  },
+  {
+    "text": "UI তে আপনারা edit icon এ ক্লিক করলে একটা সুন্দর মোডাল খুলে দিতে পারেন অথবা সবচেয়ে ভাল হয়, ঐখানেই Todo এর title টি লিস্টে যেখানে দেখা যাচ্ছে, সেখানে title টিকে value হিসেবে নিয়ে একটি input box দেখিয়ে দিবেন এবং সেখানে update করে \"Enter\" press করলে আপডেট হয়ে যাবে।",
+    "completed": false,
+    "id": 25,
+    "color": "yellow"
+  },
+  {
+    "text": "আপডেট টি অবশ্যই সার্ভার এবং ক্লায়েন্ট both সাইডেই হতে হবে এবং রিলোড করলে যেন state টি persist করে।",
+    "completed": false,
+    "id": 26,
+    "color": "yellow"
+  },
+  {
+    "text": "\"Enter\" press করার পর কোন ধরণের পেইজ রিলোড গ্রহণযোগ্য নয়।",
+    "completed": false,
+    "id": 27
+  },
+  {
+    "text": "প্রজেক্টে দেখানো Todo list থেকে completed Todo গুলোকে সরিয়ে নিয়ে নিচে আরেকটি সেকশন এ নিয়ে যাওয়া।",
+    "completed": false,
+    "id": 28
+  },
+  {
+    "text": "এজন্য আপনাদের কে বর্তমান Todo list সেকশন এর নিচে আরেকটি সেকশন UI তে দেখাতে হবে।",
+    "completed": false,
+    "id": 29
+  },
+  {
+    "text": "সেই সেকশন এর উপর একটি টাইটেল দেখাতে পারেন - \"Completed Tasks\"",
+    "completed": false,
+    "id": 30
+  },
+  {
+    "text": "এই লিস্ট এ শুধু মাত্র কমপ্লিট টাস্ক গুলো দেখালেই চলবে।",
+    "completed": false,
+    "id": 31
+  },
+  {
+    "text": "এই লিস্টটি উপরের লিস্ট এর সাথে synced থাকবে। মানে উপরের লিস্টে কোন Todo কে যদি \"complete\" করা হয়, তাহলে সেটি উপরের লিস্ট থেকে নিচের লিস্টে চলে আসবে। উপরের লিস্ট এ শুধু incomplete টাস্ক গুলো থাকবে।",
+    "completed": false,
+    "id": 32
+  },
+  {
+    "text": "নিচের লিস্ট এ কোন এডিট, ডিলিট এসব ফিচার লাগবেনা। শুধু মাত্র \"complete\" থেকে \"incomplete\" করার অপশন থাকবে। এবং নিচের থেকে একটি complete task কে incomplete মার্ক করে দিলে সেটি আবার নিচের লিস্ট থেকে উপরের লিস্টে চলে যাবে।",
+    "completed": false,
+    "id": 33
+  },
+  {
+    "text": "পুরো ফিচারটি তে কোন পেইজ রিলোড একসেপ্ট করার হবেনা।",
+    "completed": false,
+    "id": 34,
+    "color": "yellow"
+  },
+  {
+    "text": "পেইজ ম্যানুয়ালি রিলোড দিলেই কারেন্ট স্টেটটি যেন ধরে রাখে, মানে প্রতিটি আপডেট যেন সার্ভার এর সাথে synced থাকে।",
+    "completed": false,
+    "id": 35,
+    "color": "yellow"
+  },
+  {
+    "text": "Start your json server to test",
+    "completed": false,
+    "id": 36,
+    "color": "green"
+  }
+]
