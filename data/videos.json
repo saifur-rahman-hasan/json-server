@@ -10,7 +10,11 @@
     "views": "2.1k",
     "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
     "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
-    "tags": ["javascript", "react", "tips"],
+    "tags": [
+      "javascript",
+      "react",
+      "tips"
+    ],
     "likes": 12,
     "unlikes": 8
   },
@@ -25,7 +29,10 @@
     "views": "2.1k",
     "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
     "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
-    "tags": ["vscode", "tips"],
+    "tags": [
+      "vscode",
+      "tips"
+    ],
     "likes": 3,
     "unlikes": 2
   },
@@ -40,7 +47,10 @@
     "views": "2.1k",
     "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
     "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
-    "tags": ["tailwind", "css"],
+    "tags": [
+      "tailwind",
+      "css"
+    ],
     "likes": 10,
     "unlikes": 3
   },
@@ -55,7 +65,11 @@
     "views": "2.1k",
     "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
     "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
-    "tags": ["debounce", "javascript", "tips"],
+    "tags": [
+      "debounce",
+      "javascript",
+      "tips"
+    ],
     "likes": 10,
     "unlikes": 5
   },
@@ -70,7 +84,11 @@
     "views": "2.1k",
     "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
     "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
-    "tags": ["sass", "css", "ui"],
+    "tags": [
+      "sass",
+      "css",
+      "ui"
+    ],
     "likes": 2,
     "unlikes": 1
   },
@@ -85,7 +103,11 @@
     "views": "2.1k",
     "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
     "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
-    "tags": ["react", "router", "javascript"],
+    "tags": [
+      "react",
+      "router",
+      "javascript"
+    ],
     "likes": 1500,
     "unlikes": 5
   },
@@ -100,7 +122,11 @@
     "views": "2.1k",
     "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
     "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
-    "tags": ["tailwind", "css", "ui"],
+    "tags": [
+      "tailwind",
+      "css",
+      "ui"
+    ],
     "likes": 3000,
     "unlikes": 3
   },
@@ -115,7 +141,11 @@
     "views": "8.8k",
     "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
     "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
-    "tags": ["tailwind", "css", "ui"],
+    "tags": [
+      "tailwind",
+      "css",
+      "ui"
+    ],
     "likes": 461,
     "unlikes": 0
   },
@@ -130,7 +160,11 @@
     "views": "2.6K",
     "link": "https://www.youtube-nocookie.com/embed/txxAqdOVJAM",
     "thumbnail": "https://i3.ytimg.com/vi/txxAqdOVJAM/maxresdefault.jpg",
-    "tags": ["tailwind", "css", "ui"],
+    "tags": [
+      "tailwind",
+      "css",
+      "ui"
+    ],
     "likes": 3000,
     "unlikes": 3
   },
@@ -145,7 +179,11 @@
     "views": "2.1k",
     "link": "https://www.youtube-nocookie.com/embed/f6MmZCXimoE",
     "thumbnail": "https://i3.ytimg.com/vi/f6MmZCXimoE/maxresdefault.jpg",
-    "tags": ["tailwind", "css", "ui"],
+    "tags": [
+      "tailwind",
+      "css",
+      "ui"
+    ],
     "likes": 20,
     "unlikes": 3
   },
@@ -160,7 +198,11 @@
     "views": "2.1k",
     "link": "https://www.youtube-nocookie.com/embed/ZPHsMQSRXlQ",
     "thumbnail": "https://i3.ytimg.com/vi/ZPHsMQSRXlQ/maxresdefault.jpg",
-    "tags": ["tailwind", "css", "ui"],
+    "tags": [
+      "tailwind",
+      "css",
+      "ui"
+    ],
     "likes": 3000,
     "unlikes": 3
   },
@@ -175,7 +217,11 @@
     "views": "2.1k",
     "link": "https://www.youtube-nocookie.com/embed/1PjVAoUxKfI",
     "thumbnail": "https://i3.ytimg.com/vi/1PjVAoUxKfI/maxresdefault.jpg",
-    "tags": ["tailwind", "css", "ui"],
+    "tags": [
+      "tailwind",
+      "css",
+      "ui"
+    ],
     "likes": 3000,
     "unlikes": 3
   },
@@ -190,7 +236,11 @@
     "views": "2.1k",
     "link": "https://www.youtube-nocookie.com/embed/36TUIIZgiu0",
     "thumbnail": "https://i3.ytimg.com/vi/36TUIIZgiu0/maxresdefault.jpg",
-    "tags": ["tailwind", "css", "ui"],
+    "tags": [
+      "tailwind",
+      "css",
+      "ui"
+    ],
     "likes": 3000,
     "unlikes": 3
   },
@@ -205,7 +255,10 @@
     "views": "2.1k",
     "link": "https://www.youtube.com/embed/WC-g0JtEIwM",
     "thumbnail": "https://i3.ytimg.com/vi/WC-g0JtEIwM/maxresdefault.jpg",
-    "tags": ["nodejs", "javascript"],
+    "tags": [
+      "nodejs",
+      "javascript"
+    ],
     "likes": 3000,
     "unlikes": 3
   },
@@ -220,7 +273,11 @@
     "views": "2.1k",
     "link": "https://www.youtube.com/embed/VTOLMaaTKw0",
     "thumbnail": "https://i3.ytimg.com/vi/VTOLMaaTKw0/maxresdefault.jpg",
-    "tags": ["tailwind", "css", "ui"],
+    "tags": [
+      "tailwind",
+      "css",
+      "ui"
+    ],
     "likes": 0,
     "unlikes": 0
   },
@@ -235,7 +292,10 @@
     "views": "29.2k",
     "link": "https://www.youtube.com/embed/IFBeIUX3J8M",
     "thumbnail": "https://i3.ytimg.com/vi/IFBeIUX3J8M/maxresdefault.jpg",
-    "tags": ["nodejs", "javascript"],
+    "tags": [
+      "nodejs",
+      "javascript"
+    ],
     "likes": 0,
     "unlikes": 0
   },
@@ -250,7 +310,9 @@
     "views": "48.3k",
     "link": "https://www.youtube.com/embed/IUBd76UQb34",
     "thumbnail": "https://i3.ytimg.com/vi/IUBd76UQb34/maxresdefault.jpg",
-    "tags": ["javascript"],
+    "tags": [
+      "javascript"
+    ],
     "likes": 2000,
     "unlikes": 2
   },
@@ -265,7 +327,11 @@
     "views": "23.2k",
     "link": "https://www.youtube.com/embed/RJLYIxlLrKM",
     "thumbnail": "https://i3.ytimg.com/vi/RJLYIxlLrKM/maxresdefault.jpg",
-    "tags": ["javascript", "react", "vue"],
+    "tags": [
+      "javascript",
+      "react",
+      "vue"
+    ],
     "likes": 1200,
     "unlikes": 0
   },
@@ -280,7 +346,10 @@
     "views": "16.2k",
     "link": "https://www.youtube.com/embed/HsGSVnMzxHI",
     "thumbnail": "https://i3.ytimg.com/vi/HsGSVnMzxHI/maxresdefault.jpg",
-    "tags": ["javascript", "typescript"],
+    "tags": [
+      "javascript",
+      "typescript"
+    ],
     "likes": 997,
     "unlikes": 0
   },
@@ -295,7 +364,10 @@
     "views": "41k",
     "link": "https://www.youtube.com/embed/2C5834qx0sA",
     "thumbnail": "https://i3.ytimg.com/vi/2C5834qx0sA/maxresdefault.jpg",
-    "tags": ["javascript", "react"],
+    "tags": [
+      "javascript",
+      "react"
+    ],
     "likes": 1500,
     "unlikes": 0
   },
@@ -310,7 +382,10 @@
     "views": "29k",
     "link": "https://www.youtube.com/embed/xVx5VqfX75Q",
     "thumbnail": "https://i3.ytimg.com/vi/xVx5VqfX75Q/maxresdefault.jpg",
-    "tags": ["javascript", "react"],
+    "tags": [
+      "javascript",
+      "react"
+    ],
     "likes": 1000,
     "unlikes": 0
   },
@@ -325,7 +400,10 @@
     "views": "39.2k",
     "link": "https://www.youtube.com/embed/ii8GaRjRoNI",
     "thumbnail": "https://i3.ytimg.com/vi/ii8GaRjRoNI/maxresdefault.jpg",
-    "tags": ["javascript", "react"],
+    "tags": [
+      "javascript",
+      "react"
+    ],
     "likes": 1500,
     "unlikes": 0
   },
@@ -340,8 +418,65 @@
     "views": "16.8k",
     "link": "https://www.youtube.com/embed/k_q-SCeYLJU",
     "thumbnail": "https://i3.ytimg.com/vi/k_q-SCeYLJU/maxresdefault.jpg",
-    "tags": ["javascript", "react"],
+    "tags": [
+      "javascript",
+      "react"
+    ],
     "likes": 698,
+    "unlikes": 0
+  },
+  {
+    "id": 24,
+    "title": "JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla",
+    "description": "5. How to remove duplicates from an array?\n6. How to compare two arrays by values?\n7. How to shuffle an array?",
+    "author": "Sumit Saha",
+    "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+    "date": "Jul 6, 2021",
+    "duration": "39:43",
+    "views": "9.9k",
+    "link": "https://www.youtube.com/embed/E9_R88eKcBM",
+    "thumbnail": "https://i3.ytimg.com/vi/E9_R88eKcBM/maxresdefault.jpg",
+    "tags": [
+      "javascript",
+      "tips"
+    ],
+    "likes": 651,
+    "unlikes": 0
+  },
+  {
+    "id": 25,
+    "title": "Prototype - the foundation of JavaScript - JavaScript Bangla ( বাংলা ) Tutorial",
+    "description": "object. Any property or method inside a prototype object can be accessed by all new objects created from that function. Simple! But this is a theoretical definition. To know in detail, please watch the video from start to end. I can bet, you will never forget Prototype in your life. Happy ",
+    "author": "Sumit Saha",
+    "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+    "date": "Sep 5, 2020",
+    "duration": "53:58",
+    "views": "34.2k",
+    "link": "https://www.youtube.com/embed/Z45VQuHO_VA",
+    "thumbnail": "https://i3.ytimg.com/vi/Z45VQuHO_VA/maxresdefault.jpg",
+    "tags": [
+      "javascript",
+      "tips"
+    ],
+    "likes": 1560,
+    "unlikes": 0
+  },
+  {
+    "id": 26,
+    "title": "Node.js কি & কিভাবে কাজ করে? - Node.js Tutorial Bangla | Bangla Node js Tutorial",
+    "description": "Welcome to Learn with Sumit. In this video I have shown what Node js is and how Node js works. In this whole Bangla Node js series, I will be covering  Node.js, Express.js & MongoDB from scratch. I have also shown a Raw Node.js Project and a Complete Real-time Chat Application at the end of this playlist. Most importantly this Node.js Bangla tutorial series is absolutely beginner friendly. The only prerequisite is you must know JavaScript. If you have zero knowledge on JavaScript, you can check this recommended JS path",
+    "author": "Sumit",
+    "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+    "date": "Oct 24, 2020",
+    "duration": "22:11",
+    "views": "49.5k",
+    "link": "https://www.youtube.com/embed/qImH1bFubW4",
+    "thumbnail": "https://i3.ytimg.com/vi/qImH1bFubW4/maxresdefault.jpg",
+    "tags": [
+      "javascript",
+      "nodejs"
+    ],
+    "likes": 3100,
     "unlikes": 0
   }
 ]
