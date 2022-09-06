@@ -1,1 +1,140 @@
-[]
+[
+  {
+    "name": "Salary",
+    "type": "income",
+    "amount": 70000,
+    "id": 1
+  },
+  {
+    "name": "Freelancing",
+    "type": "income",
+    "amount": 30000,
+    "id": 2
+  },
+  {
+    "name": "Laptop Repair",
+    "type": "expense",
+    "amount": 3000,
+    "id": 3
+  },
+  {
+    "name": "Income Tax",
+    "type": "expense",
+    "amount": 12500,
+    "id": 4
+  },
+  {
+    "name": "Desco Bill",
+    "type": "expense",
+    "amount": 1500,
+    "id": 5
+  },
+  {
+    "name": "House Rent",
+    "type": "income",
+    "amount": 17500,
+    "id": 6
+  },
+  {
+    "name": "Wasa Bill - Aug, 2022",
+    "type": "expense",
+    "amount": 980,
+    "id": 7
+  },
+  {
+    "name": "GAS Bill - Aug, 2022",
+    "type": "expense",
+    "amount": 1140,
+    "id": 8
+  },
+  {
+    "name": "Internet Bill",
+    "type": "expense",
+    "amount": 1000,
+    "id": 9
+  },
+  {
+    "name": "Akash DTH recharge",
+    "type": "expense",
+    "amount": 400,
+    "id": 10
+  },
+  {
+    "name": "Flat Rent",
+    "type": "income",
+    "amount": 14000,
+    "id": 11
+  },
+  {
+    "name": "Freelancing Bill, Jan, 2022",
+    "type": "income",
+    "amount": 35000,
+    "id": 12
+  },
+  {
+    "name": "Freelancing Bill, Feb, 2022",
+    "type": "income",
+    "amount": 48000,
+    "id": 13
+  },
+  {
+    "name": "Freelancing Bill, March, 2022",
+    "type": "income",
+    "amount": 28500,
+    "id": 14
+  },
+  {
+    "name": "Freelancing Bill, April, 2022",
+    "type": "income",
+    "amount": 60000,
+    "id": 15
+  },
+  {
+    "name": "Freelancing Bill, May, 2022",
+    "type": "income",
+    "amount": 45800,
+    "id": 16
+  },
+  {
+    "name": "Freelancing Bill, Jun, 2022",
+    "type": "income",
+    "amount": 35000,
+    "id": 17
+  },
+  {
+    "name": "Freelancing Bill, Jul, 2022",
+    "type": "income",
+    "amount": 56400,
+    "id": 18
+  },
+  {
+    "name": "Freelancing Bill, Aug, 2022",
+    "type": "income",
+    "amount": 52400,
+    "id": 19
+  },
+  {
+    "name": "Freelancing Bill, Sep, 2022",
+    "type": "income",
+    "amount": 25400,
+    "id": 20
+  },
+  {
+    "name": "Freelancing Bill, Oct, 2022",
+    "type": "income",
+    "amount": 35600,
+    "id": 21
+  },
+  {
+    "name": "Freelancing Bill, Nov, 2022",
+    "type": "income",
+    "amount": 65000,
+    "id": 22
+  },
+  {
+    "name": "Freelancing Bill, Dec, 2022",
+    "type": "income",
+    "amount": 7500,
+    "id": 23
+  }
+]
